@@ -21,7 +21,7 @@ def nyc_pigeon_organizer(data)
   pigeon_list
 end 
 
-
+# dataset
 pigeon_data = {
   :color => {
     :purple => ["Theo", "Peter Jr.", "Lucky"],
@@ -43,5 +43,5 @@ pigeon_data = {
 
 
 
-
-nyc_pigeon_organizer(pigeon_data)
+# test in-file
+# nyc_pigeon_organizer(pigeon_data)
